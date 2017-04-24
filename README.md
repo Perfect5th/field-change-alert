@@ -1,14 +1,8 @@
-# App name
+# Field-change Alert
 
-[brief description of the app]
+Very simple, currently non-customizable Zendesk App for creating modals when
+certain field conditions are met.
 
-### The following information is displayed:
+You'll need to have ruby installed and `gem install zendesk_app_tools`
 
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
+Check out the useful guide [Here]( https://help.zendesk.com/hc/en-us/articles/229137267-Building-your-first-Zendesk-app-Part-1-Laying-the-groundwork).
