@@ -1,0 +1,17 @@
+{
+  "name": "Field-change Alert",
+  "author": {
+    "name": "Mitchell Burton",
+    "email": "m.burton@bioluxresearch.com",
+    "url": "https://io.bioluxresearch.com/"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": "assets/iframe.html"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
